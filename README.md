@@ -18,11 +18,11 @@ Welcome to **Dev-Toolbox**! This repository is designed to help developers speed
 
 ## 📂 What's Inside?
 
-| Tool / Category | Description | Status |
-| :--- | :--- | :--- |
-| **Git Shortcuts** | Handy Git aliases to save your time | 🟢 Active |
-| **Bash Prompts** | Minimalist terminal themes | 🟢 Active |
-| **Regex Snippets** | Commonly used regular expressions | 🟡 Coming Soon |
+| Tool / Category | Description | Language / Format | Status |
+| :--- | :--- | :--- | :--- |
+| **Git Shortcuts** | Handy Git aliases to save your time | Text / Config | 🟢 Active |
+| **Bash Prompts** | Minimalist terminal themes | Shell Script | 🟢 Active |
+| **Regex Snippets** | Commonly used regular expressions | Text / Regex | 🟢 Active |
 
 ---
 
