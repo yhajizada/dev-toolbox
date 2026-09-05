@@ -1,33 +1,39 @@
 <div align="center">
 
-# 🧰 Dev-Toolbox
+# 🚀 Dev-Toolbox
 
-**A curated collection of minimalist, lightning-fast utilities and productivity cheatsheets for developers.**
+**A production-ready collection of high-performance developer utilities, automation scripts, and CLI tools.**
 
 [![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/dev-toolbox?style=social)](https://github.com/YOUR_USERNAME/dev-toolbox/stargazers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 
 </div>
 
 ---
 
-## 🚀 About
-Welcome to **Dev-Toolbox**! This repository is designed to help developers speed up their daily workflow with clean scripts, useful snippets, and essential command-line cheat sheets.
+## 🧐 Overview
+**Dev-Toolbox** is built to solve repetitive development tasks. Instead of writing boilerplate code every time you need to encrypt files, convert data formats, or automate local workflows, you can use these modular, clean Python utilities.
 
 ---
 
-## 📂 What's Inside?
+## 🛠️ Included Utilities
 
-| Tool / Category | Description | Language / Format | Status |
+| Tool Name | Category | Description | File Path |
 | :--- | :--- | :--- | :--- |
-| **Git Shortcuts** | Handy Git aliases to save your time | Text / Config | 🟢 Active |
-| **Bash Prompts** | Minimalist terminal themes | Shell Script | 🟢 Active |
-| **Regex Snippets** | Commonly used regular expressions | Text / Regex | 🟢 Active |
+| **File Encryptor** | Security | Symmetric file encryption using Fernet | `utils/file_encryptor.py` |
+| **JSON to CSV Converter** | Data Processing | Instantly transforms JSON datasets into structured CSV files | `utils/json_to_csv.py` |
 
 ---
 
-## 💡 How to Contribute
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues).
+## ⚙️ Quick Start & Installation
+
+1. **Clone the repository:**
+
+---
+
+## 🤝 Contributing
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingTool`)
@@ -37,5 +43,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-## ⭐ Show Your Support
-Give a ⭐️ if this project helped you or looked cool on your profile!
+## 📝 License
+Distributed under the MIT License. See `LICENSE` for more information.
